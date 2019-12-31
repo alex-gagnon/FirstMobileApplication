@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">My Pet Application</string>
     <string name="action_settings">Settings</string>
     <string name="description">Description</string>
     <string name="save">Save</string>
